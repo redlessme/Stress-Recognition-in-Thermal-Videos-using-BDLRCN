@@ -1,6 +1,6 @@
-# Stress Recognition in Thermal Videos (ICONIP2021)
+# Stress Recognition in Thermal Videos 
 
-This is the implementation of `Stress Recognition in Thermal Videos Using Bi-directional Long-Term Recurrent Convolutional Neural Networks`.
+This is the implementation of `Stress Recognition in Thermal Videos Using Bi-directional Long-Term Recurrent Convolutional Neural Networks(ICONIP2021)`.
 
 To run the code, 
 
